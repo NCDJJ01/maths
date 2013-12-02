@@ -36,8 +36,8 @@ class DeterminanteNxN {
 				$temp = $matriz[$i][$i];
 				for ($j = $i; $j < $n; $j++) {
 					$matriz[$i][$j] = $matriz[$i][$j] / $temp;
-					$m *= 1 / $temp;
 				}
+				$m *= 1 / $temp;
 			}
 
 			for ($j = $i + 1; $j < $n; $j++) {
