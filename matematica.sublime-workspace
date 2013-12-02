@@ -1,0 +1,1658 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mascara",
+				"mascaraOptions"
+			],
+			[
+				"des",
+				"destroy"
+			],
+			[
+				"RecorteEta",
+				"RecorteEtapa2View"
+			],
+			[
+				"ex",
+				"extends	@extends"
+			],
+			[
+				"fill",
+				"fillStrokeShape"
+			],
+			[
+				"fil",
+				"fillStrokeShape"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"chin",
+				"chinSegment"
+			],
+			[
+				"drag",
+				"draggable"
+			],
+			[
+				"Colage",
+				"ColagemMascara"
+			],
+			[
+				"faceS",
+				"faceShapePos"
+			],
+			[
+				"face",
+				"faceShapePos"
+			],
+			[
+				"mas",
+				"mascaraFaceShape"
+			],
+			[
+				"draw",
+				"drawFaceShape"
+			],
+			[
+				"masca",
+				"mascaraLayer"
+			],
+			[
+				"controle",
+				"controleLayer"
+			],
+			[
+				"anchor",
+				"anchorLayer"
+			],
+			[
+				"Colagem",
+				"ColagemMascaraFace"
+			],
+			[
+				"clos",
+				"closeIcon"
+			],
+			[
+				"SetStro",
+				"setStrokeWidth"
+			],
+			[
+				"escala",
+				"escalaPct"
+			],
+			[
+				"ancora",
+				"ancoraControleEndMove"
+			],
+			[
+				"ancoraControle",
+				"ancoraControleMove"
+			],
+			[
+				"esca",
+				"escalaPct"
+			],
+			[
+				"imagem",
+				"imagemArrastada"
+			],
+			[
+				"image",
+				"imageDragged"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"carouse",
+				"carousel-inner"
+			],
+			[
+				"getThu",
+				"getThumbAbsolutePath"
+			],
+			[
+				"signup",
+				"signup_step1"
+			],
+			[
+				"sign",
+				"signup_step2"
+			],
+			[
+				"TIPO",
+				"TIPO_PESSOA_FISICA"
+			],
+			[
+				"get",
+				"Get"
+			],
+			[
+				"novidade",
+				"novidadeEmail"
+			],
+			[
+				"sh",
+				"shuffle"
+			],
+			[
+				"Entity",
+				"EntityRepository"
+			],
+			[
+				"D4w",
+				"D4wColagemBundle"
+			],
+			[
+				"destroy",
+				"destroyChildren"
+			],
+			[
+				"con",
+				"controlPoints"
+			],
+			[
+				"mask",
+				"maskPoints"
+			],
+			[
+				"aplicar",
+				"aplicar-recorte"
+			],
+			[
+				"recortar",
+				"recortar-imagem"
+			],
+			[
+				"desenhar",
+				"desenharLinhas"
+			],
+			[
+				"stroke",
+				"strokeWidth"
+			],
+			[
+				"star",
+				"startPoint"
+			],
+			[
+				"control",
+				"controlPoints"
+			],
+			[
+				"Contr",
+				"controlPoints"
+			],
+			[
+				"setSt",
+				"setStroke"
+			],
+			[
+				"set",
+				"setBezierLine"
+			],
+			[
+				"bez",
+				"bezierLine"
+			],
+			[
+				"img",
+				"imgObject"
+			],
+			[
+				"modal",
+				"fotosFacebookModal"
+			],
+			[
+				"stage",
+				"stageView"
+			],
+			[
+				"load",
+				"loadAlbumFotos"
+			],
+			[
+				"adicionar",
+				"adicionarFotoFacebook"
+			],
+			[
+				"fotoLis",
+				"fotoListCompiled"
+			],
+			[
+				"foto",
+				"fotoListCompiled"
+			],
+			[
+				"alb",
+				"albumListCompiled"
+			],
+			[
+				"setS",
+				"setSelectedImage"
+			],
+			[
+				"stae",
+				"stageView"
+			],
+			[
+				"lay",
+				"layers"
+			],
+			[
+				"back",
+				"backgroundLayer"
+			],
+			[
+				"mensage",
+				"mensagemControlView"
+			],
+			[
+				"MensagemC",
+				"mensagemControlView"
+			],
+			[
+				"mensagm",
+				"mensagemControlTemplate"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"sta",
+				"stageView"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"glyphicon",
+				"glyphicon-minus"
+			],
+			[
+				"glyp",
+				"glyphicon-minus"
+			],
+			[
+				"gly",
+				"glyphicon-minus"
+			],
+			[
+				"add",
+				"addClass	addClass"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"backgroud",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"create",
+				"createProject"
+			],
+			[
+				"select",
+				"selectBackgroundView"
+			],
+			[
+				"generate",
+				"generateMoipOrderStatus"
+			],
+			[
+				"MOIP",
+				"MOIPD4W_TOKEN"
+			],
+			[
+				"MOIPD4W_INSTRU",
+				"MOIPD4W_INSTRUCION1"
+			],
+			[
+				"MOIPD4W_BILL",
+				"MOIPD4W_BILLET_WORKDAYS"
+			],
+			[
+				"moip_ins",
+				"moip_instruction1"
+			],
+			[
+				"moip_b",
+				"moip_billet_expiration"
+			],
+			[
+				"moip_par",
+				"moip_parcel_rate"
+			],
+			[
+				"moip_re",
+				"moip_return_url"
+			],
+			[
+				"moip_parce",
+				"moip_parcel_min"
+			],
+			[
+				"moip_va",
+				"moip_validation_valid_values"
+			],
+			[
+				"moip_env",
+				"moip_env_valid_values"
+			],
+			[
+				"moiP",
+				"moip_validation"
+			],
+			[
+				"moip",
+				"moip_receiver"
+			],
+			[
+				"MOIPD4W_IN",
+				"MOIPD4W_INSTRUCION1"
+			],
+			[
+				"MOIPD",
+				"MOIPD4W_BILLET_EXPIRATION"
+			],
+			[
+				"MOIPD4W_R",
+				"MOIPD4W_RETURN_URL"
+			],
+			[
+				"MOI",
+				"MOIPD4W_ENV"
+			],
+			[
+				"MOIPD4W_PARCEL_",
+				"MOIPD4W_PARCEL_RATE"
+			],
+			[
+				"MOIPD4W_PARCEL",
+				"MOIPD4W_PARCEL_MIN"
+			],
+			[
+				"MOIPD4W_",
+				"MOIPD4W_PARCEL_TRANSFER"
+			],
+			[
+				"field",
+				"fields_form"
+			],
+			[
+				"MOID",
+				"MOIPD4W_PAYMENT_WAY"
+			],
+			[
+				"cred",
+				"creditCard"
+			],
+			[
+				"deb",
+				"debitCard"
+			],
+			[
+				"cre",
+				"creditCard"
+			],
+			[
+				"fin",
+				"financing"
+			],
+			[
+				"MOIPD4W_PA",
+				"MOIPD4W_PAYMENT_WAY"
+			],
+			[
+				"fiel",
+				"fields_form"
+			],
+			[
+				"Mereu",
+				"MereuePortelaSiteBundle"
+			],
+			[
+				"session",
+				"sessionName"
+			],
+			[
+				"erro",
+				"error"
+			],
+			[
+				"acc",
+				"accountingCurrencyAmount"
+			],
+			[
+				"accou",
+				"accountingcurencyamount"
+			],
+			[
+				"selling",
+				"sellingcurrencyamount"
+			],
+			[
+				"cs",
+				"customerData"
+			],
+			[
+				"pags",
+				"pagseguro_acrescimo"
+			],
+			[
+				"Resel",
+				"ResellerClubPagseguro"
+			],
+			[
+				"redirect",
+				"redirecturl"
+			],
+			[
+				"PA",
+				"PAGSEGURO_TOKEN"
+			],
+			[
+				"PAG",
+				"PAGSEGURO_EMAIL"
+			],
+			[
+				"PAGSE",
+				"PAGSEGURO_RETURN_URL"
+			],
+			[
+				"customer",
+				"customerData"
+			],
+			[
+				"RETUR",
+				"REDIRECT_URL"
+			],
+			[
+				"setShipping",
+				"setShippingType"
+			],
+			[
+				"paym",
+				"paymentUrl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "determinante.php",
+			"settings":
+			{
+				"buffer_size": 1772,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "matematica.sublime-project",
+			"settings":
+			{
+				"buffer_size": 68,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"selected_items":
+		[
+			[
+				"xde",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"conve",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"xdebu",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"x",
+				"Xdebug: Stop Debugging (Launch Browser)"
+			],
+			[
+				"nams",
+				"Insert PHP namespace"
+			],
+			[
+				"inser",
+				"Insert PHP namespace"
+			],
+			[
+				"insert",
+				"Insert PHP namespace"
+			],
+			[
+				"li",
+				"LoremIpsum: (5) a bit"
+			],
+			[
+				"lo",
+				"LoremIpsum: (5) a bit"
+			],
+			[
+				"l",
+				"LoremIpsum: (5) a bit"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"xdeb",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"dele",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"con",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"nam",
+				"Insert PHP namespace"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ge",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"delete",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"php",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"names",
+				"Insert PHP namespace"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"delet",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"de",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"name",
+				"Insert PHP namespace"
+			],
+			[
+				"gett",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"PHP",
+				"PHP: Generate Getters"
+			],
+			[
+				"col",
+				"Color picker"
+			],
+			[
+				"PRE",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pre",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"get",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"remov",
+				"Composer: Remove Package"
+			],
+			[
+				"remove",
+				"Composer: Remove Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"form",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"todo",
+				"Show TODOs: Open files only"
+			],
+			[
+				"id",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"to",
+				"Show TODOs: Open files only"
+			],
+			[
+				"t",
+				"Show TODOs: Open files only"
+			],
+			[
+				"tod",
+				"Show TODOs: Open files only"
+			],
+			[
+				"sho",
+				"Show TODOs: Open files only"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ide",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"i",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/glauber/www/colagem/web/determinante.php",
+		"/home/glauber/www/colagem/Colagem.sublime-project",
+		"/var/www/colagem/web/determinante.php",
+		"/home/glauber/www/colagem/web/matrizes.php",
+		"/home/glauber/matrizes/matrizes.java",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/colagem/mascara.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/views/compor/recorteEtapa1.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/views/compor/recorteEtapa2.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/templates/compor/recorte_etapa1.html",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/views/compor/foto.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Compor/index.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/templates/compor/recorte_etapa2.html",
+		"/home/glauber/macweb/vps/ssh-public",
+		"/home/glauber/Área de Trabalho/ANIVERSARIANTES DEZEMBRO 2013.csv",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/views/compor/recorte.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/views/compor/stage.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/templates/compor/foto.html",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/main.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/colagem/bezier.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/colagem/math.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/colagem/paths.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/utils/mascara.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/utils/colagem.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/utils/bezier.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/utils/face.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/views/compor/mensagem.js",
+		"/home/glauber/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/glauber/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/views/compor/fotoItem.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/templates/compor/recorte.html",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/css/compor.css",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/utils/paths.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/imgs/icons/checkbox-16-icon.svg",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/utils/math.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/imgs/icons/rotate-icon.svg",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/imgs/icons/face.svg",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/imgs/icons/resize-icon.svg",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/imgs/icons/cursor-diagonal-icon.svg",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/models/compor/recorte.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/models/compor/foto.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/router.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/templates/compor/fotoItem.html",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/views/recorte/recorte.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/collections/compor/foto.js",
+		"/home/glauber/www/colagem/app/config/parameters.yml",
+		"/home/glauber/www/colagem/README.md",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Galeria/index.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Controller/GaleriaController.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Galeria/subMenu.html.twig",
+		"/var/www/colagem/src/D4w/ColagemBundle/Controller/GaleriaController.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Entity/Imagem.php",
+		"/home/glauber/www/colagem/app/config/parameters.yml.dist",
+		"/home/glauber/www/colagem/app/AppKernel.php",
+		"/home/glauber/www/colagem/app/config/routing.yml",
+		"/home/glauber/www/colagem/app/config/config.yml",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Galeria/footerMenu.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Layout/footer.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Controller/DefaultController.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Controller/ComporController.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Admin/ImagemAdmin.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Galeria/categoria.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Galeria/topMenu.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Entity/Galeria.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Layout/header.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Entity/Categoria.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Controller/BlogController.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Blog/pesquisa.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Blog/index.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/css/layout.css",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/app.js",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Form/PesquisaType.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Blog/post.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Blog/pesquisa.resultado.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Blog/lateral.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Blog/post.item.html.twig",
+		"/home/glauber/www/colagem/vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php",
+		"/home/glauber/www/colagem/composer.json",
+		"/home/glauber/www/colagem/vendor/doctrine/orm/lib/Doctrine/ORM/QueryBuilder.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Entity/BlogPost.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Admin/BlogPostAdmin.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Admin/BannerAdmin.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Default/signup.step1.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Default/signup.step2.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Form/signup.step1.form.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Form/signup.step2.form.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Form/CadastroEtapa2Type.php",
+		"/home/glauber/www/colagem/app/config/security.yml",
+		"/home/glauber/www/colagem/src/Application/Sonata/UserBundle/Entity/User.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Form/ContatoType.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Form/CadastroEtapa1Type.php",
+		"/home/glauber/www/colagem/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Controller/Controller.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Form/CadastroType.php",
+		"/home/glauber/www/colagem/src/Application/Sonata/UserBundle/Resources/config/doctrine/User.orm.xml",
+		"/home/glauber/www/colagem/src/Application/Sonata/UserBundle/Resources/config/doctrine/User.mongodb.xml",
+		"/home/glauber/www/colagem/src/Application/Sonata/UserBundle/Document/Group.php",
+		"/home/glauber/www/colagem/src/Application/Sonata/UserBundle/Document/User.php",
+		"/home/glauber/www/colagem/src/Application/Sonata/UserBundle/Entity/Group.php",
+		"/home/glauber/www/colagem/src/Application/Sonata/UserBundle/ApplicationSonataUserBundle.php",
+		"/home/glauber/www/colagem/vendor/sonata-project/user-bundle/Sonata/UserBundle/Entity/BaseUser.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Default/contact.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Form/contact.form.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Form/help.form.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Form/AjudaType.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Form/EmailType.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Controller/NovidadeController.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Default/sidebar.right.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Novidade/assinar.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Default/newsSignup.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Email/contato.html.twig",
+		"/var/www/colagem/src/D4w/ColagemBundle/Controller/DefaultController.php",
+		"/home/glauber/www/colagem/app/Resources/views/base.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Form/Type/ContatoType.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Email/ajuda.html.twig",
+		"/home/glauber/www/colagem/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Message.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Default/help.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Form/Type/AjudaType.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Form/login.form.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Default/login.html.twig",
+		"/home/glauber/www/colagem/vendor/symfony/symfony/src/Symfony/Component/Form/AbstractType.php",
+		"/home/glauber/www/colagem/vendor/symfony/symfony/src/Symfony/Component/Form/FormTypeInterface.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Paginas/menu.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Controller/PaginasController.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Paginas/index.html.twig",
+		"/home/glauber/www/colagem/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Exception/NotFoundHttpException.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Entity/Banner.php",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Banner/slider.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Banner/galeria.html.twig",
+		"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/views/Banner/novidades.html.twig"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public/js/views/compor",
+			"/home/glauber/www/colagem/src/D4w/ColagemBundle/Resources/public",
+			"/home/glauber/www/theoff",
+			"/home/glauber/www/theoff/modules",
+			"/home/glauber/www/theoff/translations",
+			"/home/glauber/www/theoff/themes",
+			"/home/glauber/www/theoff/themes/metrofas/modules",
+			"/home/glauber/www/theoff/translations/br",
+			"/home/glauber/www/theoff/modules",
+			"/home/glauber/www/theoff",
+			"/home/glauber/www/theoff/config",
+			"<project>",
+			"/home/glauber/www/mereueportela",
+			"<project>",
+			"/home/glauber/www/combooth/application/src/InterestedIn/ComboothBundle/Controller",
+			"/home/glauber/www/interestedin/1.0.1",
+			"/home/glauber/www/interestedin/1.0.1/app",
+			"/home/glauber/www/interestedin/site",
+			"/home/glauber/www/interestedin/app",
+			"/home/glauber/www/interestedin/app/controller",
+			"<project>",
+			"/home/glauber/www/interestedin",
+			"<project>",
+			"/home/glauber/www/interests/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"^\\s",
+			"mascaraRect",
+			"Etapa1",
+			"Colagem.BezierSegment",
+			"preMascara",
+			"e",
+			"Colagem.Math",
+			"MascaraRect",
+			"ColagemPaths",
+			"colagemPaths",
+			"Colagem",
+			"ColagemPaths",
+			"ColagemMath",
+			"Face",
+			"shape",
+			"this",
+			": ",
+			"context",
+			"that",
+			"shape",
+			"point",
+			"this",
+			"that.shape",
+			"this",
+			"that.shape",
+			"mascaraLayer",
+			"ColagemMascara",
+			"faceShapePos",
+			"layer",
+			"mascaraLayer",
+			"this",
+			"215",
+			"controles",
+			"\"",
+			"listenTo",
+			"console",
+			"grupoPos",
+			"layer",
+			"this",
+			"3",
+			"that.",
+			"anchorLayer",
+			"ColagemPaths",
+			"ancora",
+			"icone",
+			"group",
+			"attrs.x",
+			"image",
+			"group",
+			"anchorY",
+			"anchorX",
+			"top",
+			"image",
+			"activeAnchor",
+			" * escalaPct",
+			"anchor",
+			"group",
+			"that.",
+			"this",
+			"Width",
+			"anchor",
+			"Offset",
+			"imagem.getX()",
+			".getX()",
+			"console",
+			"Height",
+			"imageDragged",
+			"this",
+			"Backbone",
+			"fotoitem",
+			"this.$el[0]",
+			"stageview",
+			"this.stageView",
+			"this",
+			"that",
+			"stageview",
+			"document.getElementById(\"stage\")",
+			"dragleave",
+			"enter",
+			"dragover",
+			"this",
+			"6",
+			"32",
+			"3",
+			"adicionarFotoFacebook",
+			"adicionarFotoComputador",
+			"file",
+			"galeria",
+			"'",
+			"da",
+			"5",
+			"laterais",
+			"com_resumo",
+			" =",
+			"OK ",
+			"K ",
+			"sobrenome",
+			"nome",
+			"name",
+			"<yourname> <youremail>",
+			"email",
+			"ajuda",
+			"contato",
+			"nome",
+			"Controller",
+			"results",
+			"banners",
+			"point",
+			"this.",
+			"this",
+			" hide",
+			"{[type]} ",
+			"image.getLayer().draw();",
+			"fill",
+			"X",
+			"x",
+			"this",
+			"destLayer",
+			"buildAnchor",
+			"that.",
+			"anchorLayer",
+			"img",
+			"data-img",
+			"#x",
+			"class=\"thumbnail\"",
+			"this",
+			"sd-3",
+			"col-md-3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"lista de presente",
+			"lista de presentes",
+			"servicos.php",
+			"sobre.php",
+			"<hr>\\n<h3>",
+			", ",
+			"UATZUP",
+			"h2>",
+			"<h2",
+			"<hr>",
+			"</p>",
+			"<p>",
+			"</p>',",
+			"'<p>",
+			"</p>'",
+			"'<p>",
+			"interestedin",
+			"InterestedIn",
+			"</p>',",
+			"'<p>",
+			"InterestedIn"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "determinante.php",
+					"settings":
+					{
+						"buffer_size": 1772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1772,
+								1772
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 459.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "matematica.sublime-project",
+					"settings":
+					{
+						"buffer_size": 68,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"output.xdebug":
+	{
+		"height": 112.0
+	},
+	"output.xdebug_inspect":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"enti",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php"
+			],
+			[
+				"querybu",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/QueryBuilder.php"
+			],
+			[
+				"entityr",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php"
+			],
+			[
+				"controller",
+				"vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Controller/Controller.php"
+			],
+			[
+				"baseuser",
+				"vendor/sonata-project/user-bundle/Sonata/UserBundle/Entity/BaseUser.php"
+			],
+			[
+				"message",
+				"vendor/swiftmailer/swiftmailer/lib/classes/Swift/Message.php"
+			],
+			[
+				"formtype",
+				"vendor/symfony/symfony/src/Symfony/Component/Form/FormTypeInterface.php"
+			],
+			[
+				"abstractt",
+				"vendor/symfony/symfony/src/Symfony/Component/Form/AbstractType.php"
+			],
+			[
+				"notfound",
+				"vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Exception/NotFoundHttpException.php"
+			],
+			[
+				"entity",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php"
+			],
+			[
+				"entityre",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php"
+			],
+			[
+				"shop",
+				"classes/shop/Shop.php"
+			],
+			[
+				"module",
+				"classes/module/Module.php"
+			],
+			[
+				"payment",
+				"classes/PaymentModule.php"
+			],
+			[
+				"frontcontr",
+				"classes/controller/FrontController.php"
+			],
+			[
+				"modu",
+				"classes/module/Module.php"
+			],
+			[
+				"paymentm",
+				"classes/PaymentModule.php"
+			],
+			[
+				"mod",
+				"classes/module/Module.php"
+			],
+			[
+				"moi",
+				"modules/moipd4w/moip-php/lib/Moip.php"
+			],
+			[
+				"moip",
+				"modules/moipd4w/moip-php/lib/Moip.php"
+			],
+			[
+				"state",
+				"classes/State.php"
+			],
+			[
+				"address",
+				"classes/Address.php"
+			],
+			[
+				"customer",
+				"classes/Customer.php"
+			],
+			[
+				"cart",
+				"classes/Cart.php"
+			],
+			[
+				"modulefront",
+				"classes/controller/ModuleFrontController.php"
+			],
+			[
+				"valida",
+				"classes/Validate.php"
+			],
+			[
+				"helperform",
+				"classes/helper/HelperForm.php"
+			],
+			[
+				"configuration",
+				"classes/Configuration.php"
+			],
+			[
+				"paymentmodule",
+				"classes/PaymentModule.php"
+			],
+			[
+				"paymentrequest",
+				"vendor/PagSeguroLibrary/domain/PagSeguroPaymentRequest.class.php"
+			],
+			[
+				"curren",
+				"public_html/system/library/currency.php"
+			],
+			[
+				"paymentre",
+				"vendor/PagSeguroLibrary/domain/PagSeguroPaymentRequest.class.php"
+			],
+			[
+				"que",
+				"application/vendor/doctrine/orm/lib/Doctrine/ORM/QueryBuilder.php"
+			],
+			[
+				"query",
+				"application/vendor/doctrine/orm/lib/Doctrine/ORM/QueryBuilder.php"
+			],
+			[
+				"kernel",
+				"application/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php"
+			],
+			[
+				"bundle",
+				"application/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Bundle/Bundle.php"
+			],
+			[
+				"response",
+				"application/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Response.php"
+			],
+			[
+				"arraycollection",
+				"application/vendor/doctrine/common/lib/Doctrine/Common/Collections/ArrayCollection.php"
+			],
+			[
+				"registryin",
+				"application/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/RegistryInterface.php"
+			],
+			[
+				"registry",
+				"application/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Registry.php"
+			],
+			[
+				"entitymanager",
+				"application/app/cache/dev/jms_diextra/doctrine/EntityManager_5167cd9237c01.php"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"appt",
+				"app/view/TitleBar.js"
+			],
+			[
+				"interesse",
+				"app/model/Interesse.js"
+			],
+			[
+				"compa",
+				"app/model/Compartilha.js"
+			],
+			[
+				"main",
+				"app/controller/Main.js"
+			],
+			[
+				"intere",
+				"app/proxy/Interesse.js"
+			],
+			[
+				"relac",
+				"app/proxy/Relacao.js"
+			],
+			[
+				"usu",
+				"app/model/Usuario.js"
+			],
+			[
+				"rela",
+				"app/model/Relacao.js"
+			],
+			[
+				"usua",
+				"usuario.json"
+			],
+			[
+				"",
+				"usuario.json"
+			],
+			[
+				"mai",
+				"app/controller/Main.js"
+			],
+			[
+				"relaco",
+				"app/store/Relacoes.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true
+}

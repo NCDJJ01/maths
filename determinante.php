@@ -11,7 +11,7 @@ class DeterminanteNxN {
 	 * @param  array $matriz Matriz quadrada
 	 * @return float
 	 */
-	public static function calcular($matriz)
+	public static function calcular(&$matriz)
 	{
 		$det 	= 1; // resultado
 		$n 		= count($matriz); // dimensao da matriz
@@ -57,9 +57,21 @@ class DeterminanteNxN {
 		}
 
 		$det *= $sinal;
-		$det *= 1 / $m;
+		$det /= $m;
 
 		return $det;
+	}
+
+	public static function imprime($matriz)
+	{
+		$n = count($matriz);
+		for ($i = 0; $i < $n; $i++) {
+			for ($j = 0; $j < $n; $j++) {
+				echo sprintf("%4.2f\t", $matriz[$i][$j]);
+				if ($j + 1 === $n)
+					echo "\n";
+			}
+		}
 	}
 
 }
@@ -67,11 +79,37 @@ class DeterminanteNxN {
 // TESTE
 
 // estrutura para teste
+/*
 $matriz = [
-	[1, 0, 0],
-	[0, 1, 0],
-	[0, 0, 0]
+	[1, 1, 1],
+	[0, 1, 1],
+	[0, 0, 1]
+];
+$matriz = [
+	[1, 1, 1],
+	[1, 1, 1],
+	[1, 1, 1]
+];
+$matriz = [
+	[1, 1, 1, 1],
+	[0, 0, 2, -2],
+	[-1, -1, 5, 2],
+	[-4, -3, 5, 3]
+];
+*/
+$matriz = [
+	[1, 2, 5, 3, 2],
+	[1, 3, 7, 3, 4],
+	[0, 5, 2, 2, 1],
+	[1, 3, 0, 1, 2],
+	[0, 6, 7, 4, 7]
 ];
 
+echo "\nMatriz:\n\n";
+DeterminanteNxN::imprime($matriz);
+echo "\n------------------------------------------\n";
 $det = DeterminanteNxN::calcular($matriz);
+echo "\nMatriz triangular:\n\n";
+DeterminanteNxN::imprime($matriz);
+echo "\n------------------------------------------\n";
 echo "\n\nDeterminante = $det\n\n";
