@@ -33,11 +33,11 @@ class DeterminanteNxN {
 			} // if ($matriz[i][i] == 0)
 
 			if ($matriz[$i][$i] !== 1 && $matriz[$i][$i] !== -1) {
-				$temp = $matriz[$i][$i];
+				$temp = 1 / $matriz[$i][$i];
 				for ($j = $i; $j < $n; $j++) {
-					$matriz[$i][$j] = $matriz[$i][$j] / $temp;
+					$matriz[$i][$j] = $matriz[$i][$j] * $temp;
 				}
-				$m *= 1 / $temp;
+				$m *= $temp;
 			}
 
 			for ($j = $i + 1; $j < $n; $j++) {
@@ -96,13 +96,20 @@ $matriz = [
 	[-1, -1, 5, 2],
 	[-4, -3, 5, 3]
 ];
-*/
 $matriz = [
 	[1, 2, 5, 3, 2],
 	[1, 3, 7, 3, 4],
 	[0, 5, 2, 2, 1],
 	[1, 3, 0, 1, 2],
 	[0, 6, 7, 4, 7]
+];
+*/
+
+$matriz = [
+	[2, -1, 0, 0],
+	[-1, 2, -1, 0],
+	[0, -1, 2, -1],
+	[0, 0, -1, 2]
 ];
 
 echo "\nMatriz:\n\n";
